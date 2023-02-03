@@ -1,4 +1,4 @@
-# Appply Machine learning models in CIC-IDS2017 along with the required pre-processing phase.
+# Applied Machine learning models in CIC-IDS2017 along with the required pre-processing phase.
 Analysis of Intrusion Detection Evaluation Dataset (CIC-IDS2017), implementation and evaluation of machine learning models.
 
 # Dataset
